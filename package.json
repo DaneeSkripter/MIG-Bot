@@ -1,0 +1,27 @@
+{
+  "name": "mig-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daneeskripter/MIG-Bot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": "DaneeSkripter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daneeskripter/MIG-Bot/issues"
+  },
+  "homepage": "https://github.com/daneeskripter/MIG-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "gcommands": "^10.0.0"
+  }
+}
