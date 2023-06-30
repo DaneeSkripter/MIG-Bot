@@ -12,7 +12,7 @@ new Command({
         embed.addFields(
             {name: "📂 Servers", value: ctx.client.guilds.cache.size.toString(), inline: true},
             {name: "👥 Users", value: ctx.client.users.cache.size.toString(), inline: true},
-            {name: "📃 Version", value: "v1.0.0-beta.1", inline: true},
+            {name: "📃 Version", value: "v1.0.0", inline: true},
             {name: "👤 Developer", value: "<@525704336869687316>", inline: true},
         )
         ctx.reply({embeds: [embed]})
