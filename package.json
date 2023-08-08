@@ -22,7 +22,7 @@
   "homepage": "https://github.com/daneeskripter/MIG-Bot#readme",
   "dependencies": {
     "@discordjs/rest": "^2.0.0",
-    "discord-api-types": "^0.37.51",
+    "discord-api-types": "^0.37.52",
     "discord.js": "^14.12.1",
     "dotenv": "^16.3.1",
     "gcommands": "^10.0.0",
